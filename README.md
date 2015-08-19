@@ -13,13 +13,13 @@ Se eu fosse cobrar me baseando nos valores atuais sairia algo em trono de R$ 800
 
 Prêmios para as doações são crescentes, ganha tudo o que os prêmios menores ganham e algo a mais.
 
-**R$ 20** - 1 adesivo do Workshop Be MEAN
-**R$ 50** - o de cima + 1 adesivo do MongoDB, 1 adesivo do Node.js e 1 adesivo do Angular 
-**R$ 100** - o de cima + 1 camiseta do Be MEAN
-**R$ 150** - o de cima + 1 adesivo do Workshop Be MEAN, 1 adesivo do MongoDB, 1 adesivo do Node.js e 1 **adesivo do Angular 
-**R$ 200** - o de cima + 1 workshop de Geolocalização com MongoDB
-**R$ 300** - o de cima + 1 camiseta a escolher sobre JS
-**R$ 500** - o de cima + 1 curso para transformar nosso sistema em um APP MOBILE com Ionic e Cordova
+- **R$ 20** - 1 adesivo do Workshop Be MEAN
+- **R$ 50** - o de cima + 1 adesivo do MongoDB, 1 adesivo do Node.js e 1 adesivo do Angular 
+- **R$ 100** - o de cima + 1 camiseta do Be MEAN
+- **R$ 150** - o de cima + 1 adesivo do Workshop Be MEAN, 1 adesivo do MongoDB, 1 adesivo do Node.js e 1 **adesivo do Angular 
+- **R$ 200** - o de cima + 1 workshop de Geolocalização com MongoDB
+- **R$ 300** - o de cima + 1 camiseta a escolher sobre JS
+- **R$ 500** - o de cima + 1 curso para transformar nosso sistema em um APP MOBILE com Ionic e Cordova
 
 ## Meta
 
